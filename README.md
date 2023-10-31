@@ -30,3 +30,4 @@ Front-end developers use adaptive and responsive web design which works to detec
 (source: https://www.uxpin.com/studio/blog/responsive-vs-adaptive-design-whats-best-choice-designers/)
 In order to ensure that the page works on a broad range of browsers a doctype has to be set, certain CSS rules need to be set
 because each browser has it's own set of CSS rules, use cross-browser compatible libraries and frameworks, and finally test the site to make sure it works.
+(source: https://wpengine.com/resources/website-browser-compatibility/#:~:text=One%20way%20to%20solve%20this,our%20favorites%20is%20called%20Normalize.)
