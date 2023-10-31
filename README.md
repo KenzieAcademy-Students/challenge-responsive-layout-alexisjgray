@@ -1,6 +1,9 @@
 https://www.w3schools.com/cssref/css3_pr_column-rule.php
 https://www.w3schools.com/cssref/pr_font_font-variant.php
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
+https://www.tutorialspoint.com/how-to-add-commas-between-a-list-of-items-dynamically-with-css#:~:text=The%20approach%20to%20add%20commas,using%20the%20%3A%3Abefore%20selector.
+https://www.w3schools.com/cssref/pr_text_text-align.php
 
 # Kenzie Academy Challenge: Responsive Layout
 
