@@ -16,37 +16,15 @@ The code provided below is needed, but you can add properties and values to the 
 
 #main,
 #menu {
-  width: 100%;
+  display: flex;
+  width: auto;
 }
 
-@media only screen and (max-width: 601px) {
+@media only screen and (max-width: 767px) {
   #main,
   #menu {
-    width: 50%;
-  }
-}
-@media only screen and (min-width: 768px) {
-  #main,
-  #menu {
-    width: 50%;
-  }
-}
-@media only screen and (min-width: 992px) {
-  #main,
-  #menu {
-    width: 50%;
-  }
-}
-@media only screen and (min-width: 1200px) {
-  #main,
-  #menu {
-    width: 50%;
-  }
-}
-@media only screen and (orientation: landscape) {
-  #main,
-  #menu {
-    width: 50%;
+    flex-direction: column;
+    width: 100%;
   }
 }
 
